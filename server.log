@@ -1,0 +1,109 @@
+2019-04-06 [18:23:41] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-06 [18:23:41] [Server thread/INFO]: Loading server properties...
+2019-04-06 [18:23:41] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2019-04-06 [18:23:41] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.10.0을(를) 시작 중입니다
+2019-04-06 [18:23:41] [Server thread/NOTICE]: 온라인 모드가 활성화되었습니다. 서버는 플레이어가 Xbox Live가 인증되었는지 확인하게 됩니다.
+2019-04-06 [18:23:41] [Server thread/NOTICE]: 인증을 비활성화하려면, server.properties에서 "xbox-auth"를 "false"로 설정하세요.
+2019-04-06 [18:23:41] [Server thread/INFO]: 서버를 0.0.0.0:19132에서 여는 중입니다
+2019-04-06 [18:23:41] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 3.7.0을(를) 실행 중입니다
+2019-04-06 [18:23:41] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2019-04-06 [18:23:42] [Server thread/INFO]: Loading resource packs...
+2019-04-06 [18:23:42] [Server thread/NOTICE]: "world" 세계를 찾을 수 없습니다
+2019-04-06 [18:23:42] [Server thread/INFO]: "world" 세계를 준비 중입니다
+2019-04-06 [18:23:42] [Server thread/NOTICE]: "world" 세계의 스폰 지형이 백그라운드에서 생성 중입니다
+2019-04-06 [18:23:42] [Server thread/INFO]: GS4 상태 리스너를 시작 중입니다
+2019-04-06 [18:23:42] [Server thread/INFO]: Query 포트를 19132(으)로 설정 중입니다
+2019-04-06 [18:23:42] [Server thread/INFO]: Query가 0.0.0.0:19132에서 실행 중입니다
+2019-04-06 [18:23:42] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2019-04-06 [18:23:42] [Server thread/INFO]: 완료 (0.385초)! 도움말을 참조하려면 "help" 또는 "?"를 입력해주세요
+2019-04-06 [18:33:43] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-06 [18:33:43] [Server thread/INFO]: Loading server properties...
+2019-04-06 [18:33:43] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2019-04-06 [18:33:43] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.10.0을(를) 시작 중입니다
+2019-04-06 [18:33:43] [Server thread/NOTICE]: 온라인 모드가 활성화되었습니다. 서버는 플레이어가 Xbox Live가 인증되었는지 확인하게 됩니다.
+2019-04-06 [18:33:43] [Server thread/NOTICE]: 인증을 비활성화하려면, server.properties에서 "xbox-auth"를 "false"로 설정하세요.
+2019-04-06 [18:33:43] [Server thread/INFO]: 서버를 0.0.0.0:19132에서 여는 중입니다
+2019-04-06 [18:33:44] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 3.7.0을(를) 실행 중입니다
+2019-04-06 [18:33:44] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2019-04-06 [18:33:44] [Server thread/INFO]: Loading resource packs...
+2019-04-06 [18:33:44] [Server thread/INFO]: "world" 세계를 준비 중입니다
+2019-04-06 [18:33:44] [Server thread/INFO]: GS4 상태 리스너를 시작 중입니다
+2019-04-06 [18:33:44] [Server thread/INFO]: Query 포트를 19132(으)로 설정 중입니다
+2019-04-06 [18:33:44] [Server thread/INFO]: Query가 0.0.0.0:19132에서 실행 중입니다
+2019-04-06 [18:33:44] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2019-04-06 [18:33:44] [Server thread/INFO]: 완료 (0.321초)! 도움말을 참조하려면 "help" 또는 "?"를 입력해주세요
+2019-04-06 [18:33:45] [Server thread/WARNING]: ----- PocketMine-MP Auto Updater -----
+2019-04-06 [18:33:45] [Server thread/WARNING]: Your version of PocketMine-MP is out of date. Version 3.7.1 was released on Sat Mar 30 06:27:32 2019
+2019-04-06 [18:33:45] [Server thread/WARNING]: Details: https://jenkins.pmmp.io/job/PocketMine-MP/1755/
+2019-04-06 [18:33:45] [Server thread/WARNING]: Download: https://jenkins.pmmp.io/job/PocketMine-MP/1755//artifact/PocketMine-MP.phar
+2019-04-06 [18:33:45] [Server thread/WARNING]: ----- -------------------------- -----
+2019-04-06 [18:35:12] [Server thread/INFO]: [CONSOLE: 서버 중지 중]
+2019-04-06 [18:35:12] [Server thread/INFO]: "world" 세계를 언로드 중입니다
+2019-04-06 [18:35:12] [Server thread/INFO]: Stopping other threads
+2019-04-06 [18:35:29] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-06 [18:35:29] [Server thread/INFO]: Loading server properties...
+2019-04-06 [18:35:29] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2019-04-06 [18:35:29] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.10.0을(를) 시작 중입니다
+2019-04-06 [18:35:29] [Server thread/NOTICE]: 온라인 모드가 활성화되었습니다. 서버는 플레이어가 Xbox Live가 인증되었는지 확인하게 됩니다.
+2019-04-06 [18:35:29] [Server thread/NOTICE]: 인증을 비활성화하려면, server.properties에서 "xbox-auth"를 "false"로 설정하세요.
+2019-04-06 [18:35:29] [Server thread/INFO]: 서버를 0.0.0.0:19132에서 여는 중입니다
+2019-04-06 [18:35:29] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 3.7.1을(를) 실행 중입니다
+2019-04-06 [18:35:29] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2019-04-06 [18:35:29] [Server thread/INFO]: Loading resource packs...
+2019-04-06 [18:35:29] [Server thread/INFO]: "world" 세계를 준비 중입니다
+2019-04-06 [18:35:29] [Server thread/INFO]: GS4 상태 리스너를 시작 중입니다
+2019-04-06 [18:35:29] [Server thread/INFO]: Query 포트를 19132(으)로 설정 중입니다
+2019-04-06 [18:35:29] [Server thread/INFO]: Query가 0.0.0.0:19132에서 실행 중입니다
+2019-04-06 [18:35:29] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2019-04-06 [18:35:29] [Server thread/INFO]: 완료 (0.225초)! 도움말을 참조하려면 "help" 또는 "?"를 입력해주세요
+2019-04-06 [18:41:04] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-06 [18:41:04] [Server thread/INFO]: Loading server properties...
+2019-04-06 [18:41:04] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2019-04-06 [18:41:04] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.10.0을(를) 시작 중입니다
+2019-04-06 [18:41:04] [Server thread/NOTICE]: 온라인 모드가 활성화되었습니다. 서버는 플레이어가 Xbox Live가 인증되었는지 확인하게 됩니다.
+2019-04-06 [18:41:04] [Server thread/NOTICE]: 인증을 비활성화하려면, server.properties에서 "xbox-auth"를 "false"로 설정하세요.
+2019-04-06 [18:41:04] [Server thread/INFO]: 서버를 0.0.0.0:19132에서 여는 중입니다
+2019-04-06 [18:41:04] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 3.7.1을(를) 실행 중입니다
+2019-04-06 [18:41:04] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2019-04-06 [18:41:04] [Server thread/INFO]: Loading resource packs...
+2019-04-06 [18:41:04] [Server thread/INFO]: "world" 세계를 준비 중입니다
+2019-04-06 [18:41:04] [Server thread/INFO]: GS4 상태 리스너를 시작 중입니다
+2019-04-06 [18:41:04] [Server thread/INFO]: Query 포트를 19132(으)로 설정 중입니다
+2019-04-06 [18:41:04] [Server thread/INFO]: Query가 0.0.0.0:19132에서 실행 중입니다
+2019-04-06 [18:41:04] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2019-04-06 [18:41:04] [Server thread/INFO]: 완료 (0.218초)! 도움말을 참조하려면 "help" 또는 "?"를 입력해주세요
+2019-04-06 [19:16:13] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-06 [19:16:13] [Server thread/INFO]: Loading server properties...
+2019-04-06 [19:16:13] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2019-04-06 [19:16:13] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.10.0을(를) 시작 중입니다
+2019-04-06 [19:16:13] [Server thread/NOTICE]: 온라인 모드가 활성화되었습니다. 서버는 플레이어가 Xbox Live가 인증되었는지 확인하게 됩니다.
+2019-04-06 [19:16:13] [Server thread/NOTICE]: 인증을 비활성화하려면, server.properties에서 "xbox-auth"를 "false"로 설정하세요.
+2019-04-06 [19:16:13] [Server thread/INFO]: 서버를 0.0.0.0:19132에서 여는 중입니다
+2019-04-06 [19:16:13] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 3.7.1을(를) 실행 중입니다
+2019-04-06 [19:16:13] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2019-04-06 [19:16:14] [Server thread/INFO]: Loading resource packs...
+2019-04-06 [19:16:14] [Server thread/INFO]: "world" 세계를 준비 중입니다
+2019-04-06 [19:16:14] [Server thread/INFO]: GS4 상태 리스너를 시작 중입니다
+2019-04-06 [19:16:14] [Server thread/INFO]: Query 포트를 19132(으)로 설정 중입니다
+2019-04-06 [19:16:14] [Server thread/INFO]: Query가 0.0.0.0:19132에서 실행 중입니다
+2019-04-06 [19:16:14] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2019-04-06 [19:16:14] [Server thread/INFO]: 완료 (0.365초)! 도움말을 참조하려면 "help" 또는 "?"를 입력해주세요
+2019-04-06 [19:16:40] [Server thread/INFO]: [CONSOLE: 서버 중지 중]
+2019-04-06 [19:16:40] [Server thread/INFO]: "world" 세계를 언로드 중입니다
+2019-04-06 [19:16:40] [Server thread/INFO]: Stopping other threads
+2019-04-07 [21:29:42] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-07 [21:29:42] [Server thread/INFO]: Loading server properties...
+2019-04-07 [21:29:42] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2019-04-07 [21:29:42] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.10.0을(를) 시작 중입니다
+2019-04-07 [21:29:43] [Server thread/NOTICE]: 온라인 모드가 활성화되었습니다. 서버는 플레이어가 Xbox Live가 인증되었는지 확인하게 됩니다.
+2019-04-07 [21:29:43] [Server thread/NOTICE]: 인증을 비활성화하려면, server.properties에서 "xbox-auth"를 "false"로 설정하세요.
+2019-04-07 [21:29:43] [Server thread/INFO]: 서버를 0.0.0.0:19132에서 여는 중입니다
+2019-04-07 [21:29:43] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 3.7.1을(를) 실행 중입니다
+2019-04-07 [21:29:43] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2019-04-07 [21:29:43] [Server thread/INFO]: Loading resource packs...
+2019-04-07 [21:29:43] [Server thread/INFO]: "world" 세계를 준비 중입니다
+2019-04-07 [21:29:43] [Server thread/INFO]: GS4 상태 리스너를 시작 중입니다
+2019-04-07 [21:29:43] [Server thread/INFO]: Query 포트를 19132(으)로 설정 중입니다
+2019-04-07 [21:29:43] [Server thread/INFO]: Query가 0.0.0.0:19132에서 실행 중입니다
+2019-04-07 [21:29:43] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2019-04-07 [21:29:43] [Server thread/INFO]: 완료 (0.267초)! 도움말을 참조하려면 "help" 또는 "?"를 입력해주세요
